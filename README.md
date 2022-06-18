@@ -1,6 +1,6 @@
 # Fala Dev!! Tudo beleza ?
 
-- 👨🏽‍💻 -  Eu me chamo [Carol Rocha](https://www.linkedin.com/in/rhcarolrocha/);
+- 👩‍💻 -  Eu me chamo [Carol Rocha](https://www.linkedin.com/in/rhcarolrocha/);
 - 💜 - Atualmente sou Tech Recruiter na [Hero99](https://hero99.com.br/);
 - 🦄 - A Hero99 é desenvolvedora de novas tecnologias para algumas das empresas mais inovadoras do planeta;
 - 💸 - Constantemente temos vagas para:
@@ -31,30 +31,24 @@
   
  
 <div> 
-  <a href="https://www.youtube.com/channel/UCywV9Q7gvVNi-6bAJRomLPQ" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-  </a>
   
-  <a href="https://instagram.com/paulopelaez" target="_blank">
+  <a href="https://www.instagram.com/carolrochasrn/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
- 	<a href="https://www.twitch.tv/paulopelaez" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
-  </a>
+ 
   
-  <a href="https://discord.gg/paulopelaez" target="_blank">
+  <a href="https://discord.gg/" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>
   
-  <a href="mailto:pelaez@querywork.com">
+  <a href="mailto:rh.carolinerocha@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   
-  <a href="https://www.linkedin.com/in/paulopelaez" target="_blank">
+  <a href="https://www.linkedin.com/in/rhcarolrocha" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   
-   <a href="https://wa.me/5585997464894" target="_blank">
+   <a href="https://wa.me/5521978984540" target="_blank">
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a> 
  
