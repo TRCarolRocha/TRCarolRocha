@@ -1,17 +1,17 @@
 # Fala Dev!! Tudo beleza ?
 
-- 👨🏽‍💻 -  Eu me chamo [Paulo Pelaez](https://www.linkedin.com/in/paulopelaez);
-- 💜 - Atualmente sou Founder & CTO na [QueryWork](https://www.linkedin.com/company/querywork);
-- 🦄 - Somos uma Startup que contrata os melhores talentos techs para empresas referência de mercado;
+- 👨🏽‍💻 -  Eu me chamo [Carol Rocha](https://www.linkedin.com/in/rhcarolrocha/);
+- 💜 - Atualmente sou Tech Recruiter na [Hero99](https://hero99.com.br/);
+- 🦄 - A Hero99 é desenvolvedora de novas tecnologias para algumas das empresas mais inovadoras do planeta;
 - 💸 - Constantemente temos vagas para:
-- - **Frontend**: NextJs + ReactJ + ChakraUI + TypeScript;
-- - **Backend**: NestJs + PrismaIO + PostgreSQL;
-- - Se alguma fez sentido pra você, [entre em contato conosco](https://www.linkedin.com/company/querywork).
+- - **Frontend**: NextJs + ReactJs + TypeScript;
+- - **Backend**: NestJs + NodeJs + Python;
+- - Se alguma fez sentido pra você, [da uma olhada na nossa página de carreiras ](https://hero99.peopleforce.io/careers).
 
 ##
 
 <div align="center">
-  <a href="https://github.com/paulopelaez">
+  <a href="https://github.com/TRCarolRocha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulopelaez&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulopelaez&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
