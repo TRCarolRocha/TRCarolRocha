@@ -1,12 +1,7 @@
-# Fala Dev!! Tudo beleza ?
+## Fala pessoal, Tudo beleza ?
 
-- 👩‍💻 -  Eu me chamo [Carol Rocha](https://www.linkedin.com/in/rhcarolrocha/);
-- 💜 - Atualmente sou Tech Recruiter na [Hero99](https://hero99.com.br/);
-- 🦄 - A Hero99 é desenvolvedora de novas tecnologias para algumas das empresas mais inovadoras do planeta;
-- 💸 - Constantemente temos vagas para:
-- - **Frontend**: NextJs + ReactJs + TypeScript;
-- - **Backend**: NestJs + NodeJs + Python;
-- - Se alguma fez sentido pra você, [da uma olhada na nossa página de carreiras ](https://hero99.peopleforce.io/careers).
+- 👩‍💻 -  Eu me chamo [Carol Rocha](https://www.linkedin.com/in/rhcarolrocha/)
+
 
 ##
 
